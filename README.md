@@ -33,5 +33,3 @@ Exploratory Data Analysis (EDA) is a crucial step in the data analysis process, 
 ### 7. **Summary and Reporting**
    - **Summarize Findings:** Create a summary of key findings and insights.
    - **Visual Reports:** Prepare visual reports or dashboards to present the results to stakeholders.
-
-Would you like to proceed with EDA on a specific dataset? If so, please provide the data or describe the dataset you have in mind.
